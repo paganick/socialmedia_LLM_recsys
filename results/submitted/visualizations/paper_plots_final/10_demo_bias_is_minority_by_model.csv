@@ -1,0 +1,55 @@
+provider,prompt_style,category,mean_bias,std_bias,provider_label
+anthropic,controversial,no,-0.1021111111111111,,Claude Sonnet 4.5
+anthropic,controversial,unknown,0.1048888888888888,,Claude Sonnet 4.5
+anthropic,controversial,yes,-0.0027777777777777,,Claude Sonnet 4.5
+anthropic,engaging,no,-0.1028448658245921,,Claude Sonnet 4.5
+anthropic,engaging,unknown,0.1017715792595478,,Claude Sonnet 4.5
+anthropic,engaging,yes,0.0010732865650442,,Claude Sonnet 4.5
+anthropic,general,no,0.0195306568377798,,Claude Sonnet 4.5
+anthropic,general,unknown,-0.0124278199476803,,Claude Sonnet 4.5
+anthropic,general,yes,-0.0071028368900993,,Claude Sonnet 4.5
+anthropic,informative,no,-0.0518620247227717,,Claude Sonnet 4.5
+anthropic,informative,unknown,0.0653415778512142,,Claude Sonnet 4.5
+anthropic,informative,yes,-0.0134795531284423,,Claude Sonnet 4.5
+anthropic,neutral,no,-0.0449545201239457,,Claude Sonnet 4.5
+anthropic,neutral,unknown,0.0576975153133357,,Claude Sonnet 4.5
+anthropic,neutral,yes,-0.01274299518939,,Claude Sonnet 4.5
+anthropic,popular,no,0.0295561643189684,,Claude Sonnet 4.5
+anthropic,popular,unknown,-0.0346067654144534,,Claude Sonnet 4.5
+anthropic,popular,yes,0.005050601095485,,Claude Sonnet 4.5
+gemini,controversial,no,-0.1423278219028863,,Gemini 2.0 Flash
+gemini,controversial,unknown,0.1398886171647874,,Gemini 2.0 Flash
+gemini,controversial,yes,0.0024392047380988,,Gemini 2.0 Flash
+gemini,engaging,no,-0.0752081006626461,,Gemini 2.0 Flash
+gemini,engaging,unknown,0.068522075794803,,Gemini 2.0 Flash
+gemini,engaging,yes,0.006686024867843,,Gemini 2.0 Flash
+gemini,general,no,-0.015803239554642,,Gemini 2.0 Flash
+gemini,general,unknown,0.010750191339748,,Gemini 2.0 Flash
+gemini,general,yes,0.005053048214894,,Gemini 2.0 Flash
+gemini,informative,no,-0.1001755359577946,,Gemini 2.0 Flash
+gemini,informative,unknown,0.1078410611537312,,Gemini 2.0 Flash
+gemini,informative,yes,-0.0076655251959365,,Gemini 2.0 Flash
+gemini,neutral,no,-0.1334336275048391,,Gemini 2.0 Flash
+gemini,neutral,unknown,0.1378857129817326,,Gemini 2.0 Flash
+gemini,neutral,yes,-0.0044520854768936,,Gemini 2.0 Flash
+gemini,popular,no,-0.0105022844518642,,Gemini 2.0 Flash
+gemini,popular,unknown,-0.0015290637139376,,Gemini 2.0 Flash
+gemini,popular,yes,0.0120313481658019,,Gemini 2.0 Flash
+openai,controversial,no,-0.1032222222222222,,GPT-4o-mini
+openai,controversial,unknown,0.1148888888888888,,GPT-4o-mini
+openai,controversial,yes,-0.0116666666666666,,GPT-4o-mini
+openai,engaging,no,-0.0532222222222222,,GPT-4o-mini
+openai,engaging,unknown,0.0448888888888889,,GPT-4o-mini
+openai,engaging,yes,0.0083333333333333,,GPT-4o-mini
+openai,general,no,-0.0554444444444444,,GPT-4o-mini
+openai,general,unknown,0.0571111111111111,,GPT-4o-mini
+openai,general,yes,-0.0016666666666666,,GPT-4o-mini
+openai,informative,no,-0.1056837068939033,,GPT-4o-mini
+openai,informative,unknown,0.1028085943048059,,GPT-4o-mini
+openai,informative,yes,0.0028751125890973,,GPT-4o-mini
+openai,neutral,no,-0.079429612925891,,GPT-4o-mini
+openai,neutral,unknown,0.0910605083474764,,GPT-4o-mini
+openai,neutral,yes,-0.0116308954215853,,GPT-4o-mini
+openai,popular,no,-0.0176666666666666,,GPT-4o-mini
+openai,popular,unknown,0.0037777777777777,,GPT-4o-mini
+openai,popular,yes,0.0138888888888888,,GPT-4o-mini

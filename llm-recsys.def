@@ -1,0 +1,34 @@
+Bootstrap: docker
+From: continuumio/miniconda3:latest
+
+%labels
+    Project llm-recsys
+    Description LLM recommendation bias study environment
+
+%setup
+    # Create mount points for all site-level bind mounts before %post runs
+    mkdir -p ${APPTAINER_ROOTFS}/apps
+    mkdir -p ${APPTAINER_ROOTFS}/scratch
+    mkdir -p ${APPTAINER_ROOTFS}/shares
+    mkdir -p ${APPTAINER_ROOTFS}/sctmp
+
+%files
+    environment.yml /environment.yml
+
+%post
+    # Update conda and create the project environment
+    conda update -n base -c conda-forge conda -y
+    conda env create -f /environment.yml
+    conda clean -afy
+
+    # Make the environment's python the default
+    echo "source activate llm-bias-analysis" >> /etc/bash.bashrc
+    ln -sf /opt/conda/envs/llm-bias-analysis/bin/python /usr/local/bin/python
+    ln -sf /opt/conda/envs/llm-bias-analysis/bin/python /usr/local/bin/python3
+
+%environment
+    export PATH="/opt/conda/envs/llm-bias-analysis/bin:$PATH"
+    export CONDA_DEFAULT_ENV=llm-bias-analysis
+
+%runscript
+    exec python "$@"

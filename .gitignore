@@ -1,0 +1,42 @@
+# Raw experiment outputs (too large for git)
+outputs/
+
+# Raw datasets
+datasets/
+
+# Container image
+llm-recsys.sif
+
+# Old analysis directory
+old_llm_recommendation_system_analysis/
+
+# Intermediate runs directory
+runs/
+
+# Logs
+logs/
+*.log
+pipeline.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Parquet cache files (in results/ subdirs)
+**/*.parquet
+
+# Old analysis_outputs (superseded by results/)
+analysis_outputs/
+
+# Claude Code internals
+.claude/
+
+# Misc
+.DS_Store
+*.tmp
+14_04.txt
+last.txt
+experiment_run.txt
+data/

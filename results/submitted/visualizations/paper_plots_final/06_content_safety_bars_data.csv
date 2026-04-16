@@ -1,0 +1,163 @@
+provider,dataset,prompt_style,directional_bias,feature,provider_display,dataset_display,prompt_display
+openai,twitter,general,0.0888679238750289,polarization_score,GPT-4o-mini,Twitter/X,General
+openai,twitter,popular,0.047638770890836,polarization_score,GPT-4o-mini,Twitter/X,Popular
+openai,twitter,engaging,0.1482679029300602,polarization_score,GPT-4o-mini,Twitter/X,Engaging
+openai,twitter,informative,0.2701367622703959,polarization_score,GPT-4o-mini,Twitter/X,Informative
+openai,twitter,controversial,0.3502849961191209,polarization_score,GPT-4o-mini,Twitter/X,Controversial
+openai,twitter,neutral,0.3392914064765152,polarization_score,GPT-4o-mini,Twitter/X,Neutral
+anthropic,twitter,general,-0.0293101396875555,polarization_score,Claude Sonnet 4.5,Twitter/X,General
+anthropic,twitter,popular,-0.178431485603864,polarization_score,Claude Sonnet 4.5,Twitter/X,Popular
+anthropic,twitter,engaging,0.3688250851445573,polarization_score,Claude Sonnet 4.5,Twitter/X,Engaging
+anthropic,twitter,informative,0.1794773381148324,polarization_score,Claude Sonnet 4.5,Twitter/X,Informative
+anthropic,twitter,controversial,0.4440862274589017,polarization_score,Claude Sonnet 4.5,Twitter/X,Controversial
+anthropic,twitter,neutral,0.2741243641828843,polarization_score,Claude Sonnet 4.5,Twitter/X,Neutral
+gemini,twitter,general,-0.0654237580463328,polarization_score,Gemini 2.0 Flash,Twitter/X,General
+gemini,twitter,popular,-0.0737091642477041,polarization_score,Gemini 2.0 Flash,Twitter/X,Popular
+gemini,twitter,engaging,0.2875836981905345,polarization_score,Gemini 2.0 Flash,Twitter/X,Engaging
+gemini,twitter,informative,0.224199207954369,polarization_score,Gemini 2.0 Flash,Twitter/X,Informative
+gemini,twitter,controversial,0.4427404708035323,polarization_score,Gemini 2.0 Flash,Twitter/X,Controversial
+gemini,twitter,neutral,0.4567528732292723,polarization_score,Gemini 2.0 Flash,Twitter/X,Neutral
+openai,bluesky,general,0.0863610088864548,polarization_score,GPT-4o-mini,Bluesky,General
+openai,bluesky,popular,0.0767452672618544,polarization_score,GPT-4o-mini,Bluesky,Popular
+openai,bluesky,engaging,0.0946485672871799,polarization_score,GPT-4o-mini,Bluesky,Engaging
+openai,bluesky,informative,0.1025365129628529,polarization_score,GPT-4o-mini,Bluesky,Informative
+openai,bluesky,controversial,0.1292297383706188,polarization_score,GPT-4o-mini,Bluesky,Controversial
+openai,bluesky,neutral,0.1306396098763992,polarization_score,GPT-4o-mini,Bluesky,Neutral
+anthropic,bluesky,general,0.0640411659890076,polarization_score,Claude Sonnet 4.5,Bluesky,General
+anthropic,bluesky,popular,0.0283667132457469,polarization_score,Claude Sonnet 4.5,Bluesky,Popular
+anthropic,bluesky,engaging,0.1189257684147487,polarization_score,Claude Sonnet 4.5,Bluesky,Engaging
+anthropic,bluesky,informative,0.1067341669068072,polarization_score,Claude Sonnet 4.5,Bluesky,Informative
+anthropic,bluesky,controversial,0.1770017024182961,polarization_score,Claude Sonnet 4.5,Bluesky,Controversial
+anthropic,bluesky,neutral,0.1550182999836946,polarization_score,Claude Sonnet 4.5,Bluesky,Neutral
+gemini,bluesky,general,0.0086436218239361,polarization_score,Gemini 2.0 Flash,Bluesky,General
+gemini,bluesky,popular,-0.0329683899438854,polarization_score,Gemini 2.0 Flash,Bluesky,Popular
+gemini,bluesky,engaging,0.0991836468681568,polarization_score,Gemini 2.0 Flash,Bluesky,Engaging
+gemini,bluesky,informative,0.0868877024037243,polarization_score,Gemini 2.0 Flash,Bluesky,Informative
+gemini,bluesky,controversial,0.1531174719298542,polarization_score,Gemini 2.0 Flash,Bluesky,Controversial
+gemini,bluesky,neutral,0.1153566591522889,polarization_score,Gemini 2.0 Flash,Bluesky,Neutral
+openai,reddit,general,0.0816407942137577,polarization_score,GPT-4o-mini,Reddit,General
+openai,reddit,popular,0.0739587748947864,polarization_score,GPT-4o-mini,Reddit,Popular
+openai,reddit,engaging,0.0729492655414053,polarization_score,GPT-4o-mini,Reddit,Engaging
+openai,reddit,informative,0.1048365690649176,polarization_score,GPT-4o-mini,Reddit,Informative
+openai,reddit,controversial,0.1082263006608312,polarization_score,GPT-4o-mini,Reddit,Controversial
+openai,reddit,neutral,0.1143236171492478,polarization_score,GPT-4o-mini,Reddit,Neutral
+anthropic,reddit,general,0.1034231407995772,polarization_score,Claude Sonnet 4.5,Reddit,General
+anthropic,reddit,popular,-0.0284596425893844,polarization_score,Claude Sonnet 4.5,Reddit,Popular
+anthropic,reddit,engaging,0.1078825655696716,polarization_score,Claude Sonnet 4.5,Reddit,Engaging
+anthropic,reddit,informative,0.1295261507501093,polarization_score,Claude Sonnet 4.5,Reddit,Informative
+anthropic,reddit,controversial,0.1363802777694595,polarization_score,Claude Sonnet 4.5,Reddit,Controversial
+anthropic,reddit,neutral,0.134062267712558,polarization_score,Claude Sonnet 4.5,Reddit,Neutral
+gemini,reddit,general,0.1138406917516496,polarization_score,Gemini 2.0 Flash,Reddit,General
+gemini,reddit,popular,0.075297982415905,polarization_score,Gemini 2.0 Flash,Reddit,Popular
+gemini,reddit,engaging,0.1117190100727001,polarization_score,Gemini 2.0 Flash,Reddit,Engaging
+gemini,reddit,informative,0.1325154653745355,polarization_score,Gemini 2.0 Flash,Reddit,Informative
+gemini,reddit,controversial,0.1377122609734101,polarization_score,Gemini 2.0 Flash,Reddit,Controversial
+gemini,reddit,neutral,0.148209049743353,polarization_score,Gemini 2.0 Flash,Reddit,Neutral
+openai,twitter,general,0.0296391888888888,sentiment_polarity,GPT-4o-mini,Twitter/X,General
+openai,twitter,popular,0.0487339666666666,sentiment_polarity,GPT-4o-mini,Twitter/X,Popular
+openai,twitter,engaging,-0.0352252555555555,sentiment_polarity,GPT-4o-mini,Twitter/X,Engaging
+openai,twitter,informative,-0.0199693830451393,sentiment_polarity,GPT-4o-mini,Twitter/X,Informative
+openai,twitter,controversial,-0.1649278111111111,sentiment_polarity,GPT-4o-mini,Twitter/X,Controversial
+openai,twitter,neutral,-0.1881111284265044,sentiment_polarity,GPT-4o-mini,Twitter/X,Neutral
+anthropic,twitter,general,0.0730767626549536,sentiment_polarity,Claude Sonnet 4.5,Twitter/X,General
+anthropic,twitter,popular,0.0704830951716075,sentiment_polarity,Claude Sonnet 4.5,Twitter/X,Popular
+anthropic,twitter,engaging,-0.2260336866894176,sentiment_polarity,Claude Sonnet 4.5,Twitter/X,Engaging
+anthropic,twitter,informative,0.038538062116009,sentiment_polarity,Claude Sonnet 4.5,Twitter/X,Informative
+anthropic,twitter,controversial,-0.1158095888888888,sentiment_polarity,Claude Sonnet 4.5,Twitter/X,Controversial
+anthropic,twitter,neutral,-0.0097059706857173,sentiment_polarity,Claude Sonnet 4.5,Twitter/X,Neutral
+gemini,twitter,general,0.1018228963489301,sentiment_polarity,Gemini 2.0 Flash,Twitter/X,General
+gemini,twitter,popular,0.0636369045308541,sentiment_polarity,Gemini 2.0 Flash,Twitter/X,Popular
+gemini,twitter,engaging,-0.1907511521107884,sentiment_polarity,Gemini 2.0 Flash,Twitter/X,Engaging
+gemini,twitter,informative,0.0477364911942638,sentiment_polarity,Gemini 2.0 Flash,Twitter/X,Informative
+gemini,twitter,controversial,-0.1962439131697217,sentiment_polarity,Gemini 2.0 Flash,Twitter/X,Controversial
+gemini,twitter,neutral,-0.2580174267137044,sentiment_polarity,Gemini 2.0 Flash,Twitter/X,Neutral
+openai,bluesky,general,0.0121617333333333,sentiment_polarity,GPT-4o-mini,Bluesky,General
+openai,bluesky,popular,0.0093692888888888,sentiment_polarity,GPT-4o-mini,Bluesky,Popular
+openai,bluesky,engaging,-0.001476569292323,sentiment_polarity,GPT-4o-mini,Bluesky,Engaging
+openai,bluesky,informative,0.0119921777777777,sentiment_polarity,GPT-4o-mini,Bluesky,Informative
+openai,bluesky,controversial,-0.0849505999999999,sentiment_polarity,GPT-4o-mini,Bluesky,Controversial
+openai,bluesky,neutral,-0.0363292666666666,sentiment_polarity,GPT-4o-mini,Bluesky,Neutral
+anthropic,bluesky,general,-0.0622371534017803,sentiment_polarity,Claude Sonnet 4.5,Bluesky,General
+anthropic,bluesky,popular,-0.090718961242629,sentiment_polarity,Claude Sonnet 4.5,Bluesky,Popular
+anthropic,bluesky,engaging,-0.1315533212028528,sentiment_polarity,Claude Sonnet 4.5,Bluesky,Engaging
+anthropic,bluesky,informative,0.0304890982176786,sentiment_polarity,Claude Sonnet 4.5,Bluesky,Informative
+anthropic,bluesky,controversial,-0.0773889442825783,sentiment_polarity,Claude Sonnet 4.5,Bluesky,Controversial
+anthropic,bluesky,neutral,-0.0200802178908299,sentiment_polarity,Claude Sonnet 4.5,Bluesky,Neutral
+gemini,bluesky,general,-0.0220881138619248,sentiment_polarity,Gemini 2.0 Flash,Bluesky,General
+gemini,bluesky,popular,-0.0064318770445852,sentiment_polarity,Gemini 2.0 Flash,Bluesky,Popular
+gemini,bluesky,engaging,-0.0905984258410782,sentiment_polarity,Gemini 2.0 Flash,Bluesky,Engaging
+gemini,bluesky,informative,0.0424396331462978,sentiment_polarity,Gemini 2.0 Flash,Bluesky,Informative
+gemini,bluesky,controversial,-0.109173785239151,sentiment_polarity,Gemini 2.0 Flash,Bluesky,Controversial
+gemini,bluesky,neutral,-0.0340962314118433,sentiment_polarity,Gemini 2.0 Flash,Bluesky,Neutral
+openai,reddit,general,-0.0004065999999999,sentiment_polarity,GPT-4o-mini,Reddit,General
+openai,reddit,popular,-0.0160122666666666,sentiment_polarity,GPT-4o-mini,Reddit,Popular
+openai,reddit,engaging,-0.0452718222222222,sentiment_polarity,GPT-4o-mini,Reddit,Engaging
+openai,reddit,informative,0.0169344,sentiment_polarity,GPT-4o-mini,Reddit,Informative
+openai,reddit,controversial,-0.0375810444444444,sentiment_polarity,GPT-4o-mini,Reddit,Controversial
+openai,reddit,neutral,-0.0404695999999999,sentiment_polarity,GPT-4o-mini,Reddit,Neutral
+anthropic,reddit,general,0.0544466508265054,sentiment_polarity,Claude Sonnet 4.5,Reddit,General
+anthropic,reddit,popular,-0.0069120547366513,sentiment_polarity,Claude Sonnet 4.5,Reddit,Popular
+anthropic,reddit,engaging,-0.1005536963418872,sentiment_polarity,Claude Sonnet 4.5,Reddit,Engaging
+anthropic,reddit,informative,0.0490043416942598,sentiment_polarity,Claude Sonnet 4.5,Reddit,Informative
+anthropic,reddit,controversial,0.0174078324166662,sentiment_polarity,Claude Sonnet 4.5,Reddit,Controversial
+anthropic,reddit,neutral,0.0095732203215553,sentiment_polarity,Claude Sonnet 4.5,Reddit,Neutral
+gemini,reddit,general,0.0083525119580944,sentiment_polarity,Gemini 2.0 Flash,Reddit,General
+gemini,reddit,popular,-0.0962460918113012,sentiment_polarity,Gemini 2.0 Flash,Reddit,Popular
+gemini,reddit,engaging,-0.1204127833983433,sentiment_polarity,Gemini 2.0 Flash,Reddit,Engaging
+gemini,reddit,informative,0.0302768847696037,sentiment_polarity,Gemini 2.0 Flash,Reddit,Informative
+gemini,reddit,controversial,-0.0842897167146785,sentiment_polarity,Gemini 2.0 Flash,Reddit,Controversial
+gemini,reddit,neutral,-0.0865260398322591,sentiment_polarity,Gemini 2.0 Flash,Reddit,Neutral
+openai,twitter,general,-0.0231860932177191,toxicity,GPT-4o-mini,Twitter/X,General
+openai,twitter,popular,0.0075259763288518,toxicity,GPT-4o-mini,Twitter/X,Popular
+openai,twitter,engaging,0.0438436674526763,toxicity,GPT-4o-mini,Twitter/X,Engaging
+openai,twitter,informative,-0.042293605279642,toxicity,GPT-4o-mini,Twitter/X,Informative
+openai,twitter,controversial,0.0551192376950445,toxicity,GPT-4o-mini,Twitter/X,Controversial
+openai,twitter,neutral,0.0708090775021403,toxicity,GPT-4o-mini,Twitter/X,Neutral
+anthropic,twitter,general,-0.0746915577774547,toxicity,Claude Sonnet 4.5,Twitter/X,General
+anthropic,twitter,popular,-0.0118597552825361,toxicity,Claude Sonnet 4.5,Twitter/X,Popular
+anthropic,twitter,engaging,0.187527491987513,toxicity,Claude Sonnet 4.5,Twitter/X,Engaging
+anthropic,twitter,informative,-0.0889727838044856,toxicity,Claude Sonnet 4.5,Twitter/X,Informative
+anthropic,twitter,controversial,-0.007534751989012,toxicity,Claude Sonnet 4.5,Twitter/X,Controversial
+anthropic,twitter,neutral,-0.0493879467639965,toxicity,Claude Sonnet 4.5,Twitter/X,Neutral
+gemini,twitter,general,-0.0702444558978138,toxicity,Gemini 2.0 Flash,Twitter/X,General
+gemini,twitter,popular,0.009680519233913,toxicity,Gemini 2.0 Flash,Twitter/X,Popular
+gemini,twitter,engaging,0.1496709619400406,toxicity,Gemini 2.0 Flash,Twitter/X,Engaging
+gemini,twitter,informative,-0.0849210307768463,toxicity,Gemini 2.0 Flash,Twitter/X,Informative
+gemini,twitter,controversial,0.0877204096262181,toxicity,Gemini 2.0 Flash,Twitter/X,Controversial
+gemini,twitter,neutral,0.1381133143297069,toxicity,Gemini 2.0 Flash,Twitter/X,Neutral
+openai,bluesky,general,-0.0165091516851486,toxicity,GPT-4o-mini,Bluesky,General
+openai,bluesky,popular,0.0086187573575557,toxicity,GPT-4o-mini,Bluesky,Popular
+openai,bluesky,engaging,0.0141745164869971,toxicity,GPT-4o-mini,Bluesky,Engaging
+openai,bluesky,informative,-0.049688754044001,toxicity,GPT-4o-mini,Bluesky,Informative
+openai,bluesky,controversial,0.0108034758423908,toxicity,GPT-4o-mini,Bluesky,Controversial
+openai,bluesky,neutral,0.0053643692693117,toxicity,GPT-4o-mini,Bluesky,Neutral
+anthropic,bluesky,general,-0.0253771222097234,toxicity,Claude Sonnet 4.5,Bluesky,General
+anthropic,bluesky,popular,0.0615457613539043,toxicity,Claude Sonnet 4.5,Bluesky,Popular
+anthropic,bluesky,engaging,0.0876739281099967,toxicity,Claude Sonnet 4.5,Bluesky,Engaging
+anthropic,bluesky,informative,-0.0724082705322507,toxicity,Claude Sonnet 4.5,Bluesky,Informative
+anthropic,bluesky,controversial,0.002577166647868,toxicity,Claude Sonnet 4.5,Bluesky,Controversial
+anthropic,bluesky,neutral,-0.0310739384178699,toxicity,Claude Sonnet 4.5,Bluesky,Neutral
+gemini,bluesky,general,-0.0219706192016068,toxicity,Gemini 2.0 Flash,Bluesky,General
+gemini,bluesky,popular,0.0469914891317779,toxicity,Gemini 2.0 Flash,Bluesky,Popular
+gemini,bluesky,engaging,0.0750120362048144,toxicity,Gemini 2.0 Flash,Bluesky,Engaging
+gemini,bluesky,informative,-0.0720256606246126,toxicity,Gemini 2.0 Flash,Bluesky,Informative
+gemini,bluesky,controversial,0.0367090393257061,toxicity,Gemini 2.0 Flash,Bluesky,Controversial
+gemini,bluesky,neutral,0.0074069600894748,toxicity,Gemini 2.0 Flash,Bluesky,Neutral
+openai,reddit,general,-0.0225504417403717,toxicity,GPT-4o-mini,Reddit,General
+openai,reddit,popular,0.0136073198731561,toxicity,GPT-4o-mini,Reddit,Popular
+openai,reddit,engaging,0.0259162749192328,toxicity,GPT-4o-mini,Reddit,Engaging
+openai,reddit,informative,-0.0745008122977192,toxicity,GPT-4o-mini,Reddit,Informative
+openai,reddit,controversial,-0.0137594095610353,toxicity,GPT-4o-mini,Reddit,Controversial
+openai,reddit,neutral,0.0257097117440555,toxicity,GPT-4o-mini,Reddit,Neutral
+anthropic,reddit,general,-0.105441711653437,toxicity,Claude Sonnet 4.5,Reddit,General
+anthropic,reddit,popular,0.0730989145495387,toxicity,Claude Sonnet 4.5,Reddit,Popular
+anthropic,reddit,engaging,0.1373846443318866,toxicity,Claude Sonnet 4.5,Reddit,Engaging
+anthropic,reddit,informative,-0.1485196990118667,toxicity,Claude Sonnet 4.5,Reddit,Informative
+anthropic,reddit,controversial,-0.0904777858912365,toxicity,Claude Sonnet 4.5,Reddit,Controversial
+anthropic,reddit,neutral,-0.0936842468847114,toxicity,Claude Sonnet 4.5,Reddit,Neutral
+gemini,reddit,general,-0.0756782715837452,toxicity,Gemini 2.0 Flash,Reddit,General
+gemini,reddit,popular,0.1157242331593143,toxicity,Gemini 2.0 Flash,Reddit,Popular
+gemini,reddit,engaging,0.1338258265628641,toxicity,Gemini 2.0 Flash,Reddit,Engaging
+gemini,reddit,informative,-0.1472583936825186,toxicity,Gemini 2.0 Flash,Reddit,Informative
+gemini,reddit,controversial,-0.0248837334205324,toxicity,Gemini 2.0 Flash,Reddit,Controversial
+gemini,reddit,neutral,0.0060044097429321,toxicity,Gemini 2.0 Flash,Reddit,Neutral

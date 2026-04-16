@@ -1,0 +1,12 @@
+dataset,feature,category,prop_pool
+twitter,author_gender,male,0.420863309352518
+twitter,author_gender,female,0.39928057553956836
+twitter,author_gender,unknown,0.17985611510791366
+twitter,author_political_leaning,right,0.41007194244604317
+twitter,author_political_leaning,unknown,0.38489208633093525
+twitter,author_political_leaning,left,0.18345323741007194
+twitter,author_political_leaning,center-right,0.017985611510791366
+twitter,author_political_leaning,center-left,0.0035971223021582736
+twitter,author_is_minority,unknown,0.49640287769784175
+twitter,author_is_minority,no,0.43884892086330934
+twitter,author_is_minority,yes,0.06474820143884892

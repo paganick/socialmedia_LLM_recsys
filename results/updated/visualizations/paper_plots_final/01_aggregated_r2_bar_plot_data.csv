@@ -1,0 +1,14 @@
+feature,feature_display,category,r_squared,significant
+polarization_score,Content: Polarization Score,content,0.060221717233067476,0.9259259259259259
+primary_topic,Content: Primary Topic,content,0.02340401732399858,1.0
+toxicity,Toxicity: Toxicity,toxicity,0.017965445063411273,0.8518518518518519
+author_political_leaning,Author: Political Leaning,author,0.01334420862765978,0.8888888888888888
+sentiment_polarity,Sentiment: Polarity,sentiment,0.009921343835185618,0.6851851851851852
+avg_word_length,Text: Avg Word Length,text_metrics,0.007855853538312517,0.8148148148148148
+sentiment_subjectivity,Sentiment: Subjectivity,sentiment,0.005372164218325259,0.7592592592592593
+has_url,Style: Has URL,style,0.0029978934730375186,0.5277777777777778
+has_emoji,Style: Has Emoji,style,0.0015213950622977887,0.5185185185185185
+author_is_minority,Author: Is Minority,author,0.0014424592585782186,0.3888888888888889
+author_gender,Author: Gender,author,0.0013469680350107478,0.3888888888888889
+has_hashtag,Style: Has Hashtag,style,0.0006462843288488644,0.46296296296296297
+has_mention,Style: Has Mention,style,0.00013134633513044218,0.1111111111111111

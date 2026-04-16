@@ -1,0 +1,15 @@
+# API Keys — set these as environment variables before running Step 3.
+#
+# The scripts read API keys from the environment; this file is for reference only.
+#
+# Anthropic (Claude Sonnet 4.5)
+#   export ANTHROPIC_API_KEY="sk-ant-..."
+#
+# OpenAI (GPT-4o-mini)
+#   export OPENAI_API_KEY="sk-..."
+#
+# Google (Gemini 2.0 Flash)
+#   export GEMINI_API_KEY="..."
+#
+# Only the key for the provider you intend to run is required.
+# Steps 1, 2, 4, and 5 do not require any API keys.

@@ -1,0 +1,55 @@
+dataset,provider,prompt_style,mean_bias,std_bias,provider_label
+bluesky,anthropic,controversial,0.1850263315902864,,Claude Sonnet 4.5
+bluesky,anthropic,engaging,0.0420952162380592,,Claude Sonnet 4.5
+bluesky,anthropic,general,0.0614448477347586,,Claude Sonnet 4.5
+bluesky,anthropic,informative,0.3395220957344511,,Claude Sonnet 4.5
+bluesky,anthropic,neutral,0.0864769366534954,,Claude Sonnet 4.5
+bluesky,anthropic,popular,-0.0623518552870665,,Claude Sonnet 4.5
+bluesky,gemini,controversial,0.0664901269249842,,Gemini 2.0 Flash
+bluesky,gemini,engaging,-0.0097673326146932,,Gemini 2.0 Flash
+bluesky,gemini,general,0.0229503600562663,,Gemini 2.0 Flash
+bluesky,gemini,informative,0.2748787091100313,,Gemini 2.0 Flash
+bluesky,gemini,neutral,0.0182164304364498,,Gemini 2.0 Flash
+bluesky,gemini,popular,-0.0718272822632588,,Gemini 2.0 Flash
+bluesky,openai,controversial,0.1151160240439272,,GPT-4o-mini
+bluesky,openai,engaging,0.0564329963688727,,GPT-4o-mini
+bluesky,openai,general,0.0435408544357134,,GPT-4o-mini
+bluesky,openai,informative,0.2168060635748885,,GPT-4o-mini
+bluesky,openai,neutral,0.0671764451121799,,GPT-4o-mini
+bluesky,openai,popular,0.0279078169502788,,GPT-4o-mini
+reddit,anthropic,controversial,0.1229097828425356,,Claude Sonnet 4.5
+reddit,anthropic,engaging,0.0695483639000809,,Claude Sonnet 4.5
+reddit,anthropic,general,0.1566151295302766,,Claude Sonnet 4.5
+reddit,anthropic,informative,0.2436023732848218,,Claude Sonnet 4.5
+reddit,anthropic,neutral,0.1628146096567109,,Claude Sonnet 4.5
+reddit,anthropic,popular,-0.0082834678572902,,Claude Sonnet 4.5
+reddit,gemini,controversial,0.1649528857615951,,Gemini 2.0 Flash
+reddit,gemini,engaging,0.0542814031393437,,Gemini 2.0 Flash
+reddit,gemini,general,0.1218656736635992,,Gemini 2.0 Flash
+reddit,gemini,informative,0.2925333145887325,,Gemini 2.0 Flash
+reddit,gemini,neutral,0.1975077447736257,,Gemini 2.0 Flash
+reddit,gemini,popular,0.0399759513127682,,Gemini 2.0 Flash
+reddit,openai,controversial,0.1278597277923951,,GPT-4o-mini
+reddit,openai,engaging,0.027504907936481,,GPT-4o-mini
+reddit,openai,general,0.0586019311202745,,GPT-4o-mini
+reddit,openai,informative,0.1675077918337857,,GPT-4o-mini
+reddit,openai,neutral,0.0791093611630042,,GPT-4o-mini
+reddit,openai,popular,0.0365433073272054,,GPT-4o-mini
+twitter,anthropic,controversial,0.2853369387772817,,Claude Sonnet 4.5
+twitter,anthropic,engaging,0.2144352828014284,,Claude Sonnet 4.5
+twitter,anthropic,general,0.1846126723813963,,Claude Sonnet 4.5
+twitter,anthropic,informative,0.3136207170103189,,Claude Sonnet 4.5
+twitter,anthropic,neutral,0.2889766995026743,,Claude Sonnet 4.5
+twitter,anthropic,popular,0.1270523611165392,,Claude Sonnet 4.5
+twitter,gemini,controversial,0.3197899838196312,,Gemini 2.0 Flash
+twitter,gemini,engaging,0.1202036228097043,,Gemini 2.0 Flash
+twitter,gemini,general,0.2334761946568218,,Gemini 2.0 Flash
+twitter,gemini,informative,0.3341382012261409,,Gemini 2.0 Flash
+twitter,gemini,neutral,0.2463688386652416,,Gemini 2.0 Flash
+twitter,gemini,popular,-0.0567550395370215,,Gemini 2.0 Flash
+twitter,openai,controversial,0.2445026378903332,,GPT-4o-mini
+twitter,openai,engaging,0.1102001300550714,,GPT-4o-mini
+twitter,openai,general,0.1601650883907774,,GPT-4o-mini
+twitter,openai,informative,0.3342550506213975,,GPT-4o-mini
+twitter,openai,neutral,0.2449749415168662,,GPT-4o-mini
+twitter,openai,popular,0.0742855537014905,,GPT-4o-mini
